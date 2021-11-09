@@ -1,0 +1,3 @@
+open anaoconda terminal
+activate main
+go to OneDrive->Documnets->Python Simplified 
